@@ -1,0 +1,92 @@
+ body{
+  margin: 0;
+  background: linear-gradient(to right, pink, purple);
+        }
+      
+      h1{
+  text-align:center;
+        color: white;
+        font-size: 80px;
+}
+      
+.navbar{
+  height:30px;
+  justify-content:space-evenly;
+  display:flex;
+  margin:0;
+  
+}
+
+
+img{
+  height:350px;
+  width:400px;
+  border-radius: 50%;
+  float: left;
+}
+
+a{
+  color: white;
+}
+      nav{
+  background-color: black;
+}
+      
+    input{
+  width:800px;
+  height:30px;  
+}
+      p{
+  font-size:40px;
+  color:white;
+}
+      textarea {
+        width: 500px;
+        height: 200px;
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+      }
+      button{
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 20px;
+      }
+   
+.txt{
+  height:300px;
+  width:800px;
+}
+
+footer{
+  background-color:purple;
+  height:125px;
+  margin-top: 100px;
+  text-align:center;
+  font-size:40px;
+}
+
+a{
+  color: white;
+}
+
+.logo{
+  height:50px;
+  width:50px;
+  padding:20px;
+  margin-top:1%
+}
+
+div{
+  color:white;
+  padding-top:0%;
+}
+
+.socialmedia{
+  height:25px;
+  width:25px;
+  display:inline-block;
+}
+
+
